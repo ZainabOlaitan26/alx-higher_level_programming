@@ -19,10 +19,10 @@ def sub(a, b):
         a: first integer
         b: second integer
         
-        Returns:
-            The return value. a - b
-        """
-        return (a - b)
+    Returns:
+        The return value. a - b
+    """
+    return (a - b)
 
 
 def mul(a, b):
@@ -32,10 +32,10 @@ def mul(a, b):
         a: first integer
         b: second integer
         
-        Returns:
-            The return value. a * b
-        """
-        return (a * b)
+    Returns:
+        The return value. a * b
+    """
+    return (a * b)
 
 
 def div(a, b):
@@ -45,7 +45,7 @@ def div(a, b):
         a: first integer
         b: second integer
         
-        Returns:
-            The return value. a / b
-        """
-        return int(a / b)
+    Returns:
+        The return value. a / b
+    """
+    return int(a / b)
