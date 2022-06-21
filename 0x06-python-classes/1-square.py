@@ -12,7 +12,7 @@ class Square:
     """Initializes a square
 
     Args:
-    size (int): size of a side of the square
+        size (int): size of a side of the square
     
     Returns: None
     """
